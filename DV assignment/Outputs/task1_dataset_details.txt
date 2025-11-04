@@ -1,0 +1,27 @@
+
+DATASET DETAILS SUMMARY
+=======================
+Total Records: 2000
+Total Unique Drivers: 1778
+Date Range: 2024-01-01 00:21:00 to 2024-03-30 22:30:00
+
+TRIP DISTANCE:
+  Mean: 16.45 km
+  Median: 12.20 km
+  Min: 0.76 km
+  Max: 141.11 km
+
+TRIP COST:
+  Mean: $22.24
+  Median: $17.12
+  Min: $3.00
+  Max: $173.63
+
+RATINGS:
+  Mean Rating: 3.89/5.0
+  Rating Distribution:
+    1 stars: 85 trips (4.25%)
+    2 stars: 220 trips (11.00%)
+    3 stars: 300 trips (15.00%)
+    4 stars: 619 trips (30.95%)
+    5 stars: 776 trips (38.80%)

@@ -1,0 +1,15 @@
+REGION STATISTICS
+================================================================================
+
+                     Avg Distance  Total Distance  Avg Cost  Total Revenue  Avg Rating  Total Rides
+region                                                                                             
+Downtown                    16.83         4073.01     22.55        5458.17        3.89          242
+Residential South           16.72         3745.90     22.50        5040.89        3.92          224
+University Area             15.21         3179.86     20.79        4345.57        3.79          209
+Commercial District         16.77         3454.45     22.89        4714.46        3.86          206
+Suburb West                 16.86         3338.76     22.71        4496.46        3.87          198
+Airport                     17.60         3431.20     23.70        4620.80        3.86          195
+Uptown                      14.95         2841.23     20.47        3888.47        4.00          190
+Midtown                     16.62         3107.15     22.48        4202.89        3.90          187
+Residential North           16.72         3059.12     22.48        4114.33        3.99          183
+Suburb East                 16.02         2659.97     21.67        3596.68        3.83          166
